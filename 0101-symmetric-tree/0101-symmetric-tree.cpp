@@ -63,32 +63,46 @@ public:
     }
 
     
+    bool check(TreeNode* L, TreeNode* R)
+    {
+        if(!L and !R)
+            return true;
 
+        if((L and !R) or (!L and R) or (L->val!=R->val))
+            return false;
+
+        return check(L->left, R->right) and check(L->right, R->left);
+    }
 
     bool isSymmetric(TreeNode* root) {
 
-        if(root==nullptr || (root->right==nullptr && root->left==nullptr))
-            return true;
+        // if(root==nullptr || (root->right==nullptr && root->left==nullptr))
+        //     return true;
 
-        if((root->right && !root->left) ||(!root->right && root->left) )
-            return false;
+        // if((root->right && !root->left) ||(!root->right && root->left) )
+        //     return false;
 
-        if(root->left->val!=root->right->val)
-            return false;
+        // if(root->left->val!=root->right->val)
+        //     return false;
 
         
-        storeLeft(root->left);
-        storeRight(root->right);
+        // storeLeft(root->left);
+        // storeRight(root->right);
 
-        if(leftt.size() != rightt.size())
-            return false;
+        // if(leftt.size() != rightt.size())
+        //     return false;
 
-        for(int i=0;i< leftt.size();i++)
-        {
-            if(leftt[i]!=rightt[i])
-                return false;
-        }
+        // for(int i=0;i< leftt.size();i++)
+        // {
+        //     if(leftt[i]!=rightt[i])
+        //         return false;
+        // }
 
-        return true;
+        // return true;
+
+        if(root==nullptr) return true;
+
+        return check(root->left, root->right);
+
     }
 };
