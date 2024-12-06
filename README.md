@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0816-design-hashset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0816-design-hashset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
 |  |
 | ------- |
@@ -121,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
