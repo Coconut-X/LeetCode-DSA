@@ -8,23 +8,15 @@ public:
     }
 
     unordered_map<int,bool>chosen;
-
-    int count=0;
-    int sum=0;
+    int sum=0, count=0;
    
     for(int i=1;i<=n;i++)
     {
         if(sum+i>maxSum) break;
-
-        if(!chosen[i]and !m[i])
-        {
-            count++;
-            sum+=i;
-        }
+        if(!m[i])
+            count++,sum+=i;
     }
 
     return count;
-
-
     }
 };
