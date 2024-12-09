@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3427-special-array-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [3427-special-array-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3427-special-array-ii) |
 ## Simulation
 |  |
 | ------- |
