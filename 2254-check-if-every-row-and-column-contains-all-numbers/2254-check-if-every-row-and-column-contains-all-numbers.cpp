@@ -13,11 +13,13 @@ public:
         {
             if(mrow[i][matrix[i][j]] or mcol[j][matrix[i][j]] ) return false;
             mrow[i][matrix[i][j]]=1, mcol[j][matrix[i][j]]=1;
-            row[i]+=matrix[i][j];
-            col[j]+=matrix[i][j];
+            //row[i]+=matrix[i][j];
+            //col[j]+=matrix[i][j];
 
         }
     }
+
+    return true;
 
     for(int i=0;i<n;i++)
         if(row[i]!=sum or col[i]!=sum) return false;
