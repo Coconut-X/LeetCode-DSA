@@ -37,8 +37,6 @@ public:
         while (!q.empty()) {
             int size = q.size(); //current organges to be processed
 
-            bool rottedThisMinute = false; 
-
             for (int i = 0; i < size; i++) 
             {
                 auto [x, y] = q.front();
