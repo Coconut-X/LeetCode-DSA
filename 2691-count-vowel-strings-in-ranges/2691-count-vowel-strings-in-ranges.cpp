@@ -1,27 +1,20 @@
 class Solution {
 public:
 
-    bool helper(string curr, int i)
-    {
-        return curr[i]=='a' or curr[i]=='e' or curr[i]=='i' or curr[i]=='o' or curr[i]=='u';
-    }
-
 
     vector<int> vowelStrings(vector<string>& words, vector<vector<int>>& queries) {
 
         unordered_map<int,int> m;
-        
-        int count=0;
 
+        auto vowel=[](char curr){
+            return curr == 'a' or curr == 'e' or curr == 'i' or curr == 'o' or curr == 'u';
+        };
+
+        int count=0;
         for(int i=0;i<words.size();i++)
         {
             string curr=words[i];
-            int n=curr.size();
-            if(helper(curr,0) and helper(curr,n-1))
-            {
-                count++;
-            }
-            m[i]=count;
+            m[i]=((vowel(curr[0]) and vowel(curr[curr.size()-1]))? ++count: count);
         }
 
         vector<int> ans;
