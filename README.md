@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0835-linked-list-components) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3427-special-array-ii) |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0494-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
