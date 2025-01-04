@@ -9,6 +9,7 @@ public:
         
         for(int i=0;i<nums.size();i++)
             if(sums[i-1]==sums[nums.size()-1]- sums[i])
+
                 return i;
         return -1;
         
