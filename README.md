@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0835-linked-list-components) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
