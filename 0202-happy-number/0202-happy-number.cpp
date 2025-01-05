@@ -6,24 +6,20 @@ public:
 
         long long sum=0;
 
-        int t=n;
         while(sum!=1)
         {
-            t=n;
             sum=0;
-
-            while(t>0)
+            while(n>0)
             {
-                long r=t%10;
+                long r=n%10;
                 sum+=(r*r);
-                t/=10;
+                n/=10;
             }
 
             if(sum==1 or sum==7) return true; 
             if(present[sum]) return false;
             present[sum]=true;
             n=sum;
-
         }
 
         return true;
