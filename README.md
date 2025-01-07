@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1524-string-matching-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1833-find-the-highest-altitude](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Prefix Sum
 |  |
