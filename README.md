@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2868-continuous-subarrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
