@@ -9,12 +9,8 @@ public:
         if(n==1 or n==2) return 1;
 
         if(tri[n]) return tri[n];
-
-        int a= tribonacci(n-1);
-        int b= tribonacci(n-2);
-        int c= tribonacci(n-3);
-        tri[n]=a+b+c;
+    
+        tri[n]=tribonacci(n-1) + tribonacci(n-2) + tribonacci(n-3);
         return tri[n];
-
     }
 };
