@@ -1,15 +1,11 @@
 class Solution {
 public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set<int> n1, n2;       //to remove duplicate vaues
+        unordered_set<int> n1(nums1.begin(),nums1.end());
+        unordered_set<int> n2(nums2.begin(),nums2.end());   //to remove duplicate vaues
         unordered_map<int, bool> m1, m2;// for fast checking in sets
+        //we can use .count also but it will take O(n2) then, thats why store in hash also
         vector<int> d1,d2;
-
-        for(auto i : nums1)
-            n1.insert(i);
-        
-        for(auto i : nums2)
-            n2.insert(i);
 
         unordered_set<int>::iterator itr;
         
