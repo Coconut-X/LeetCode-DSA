@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
