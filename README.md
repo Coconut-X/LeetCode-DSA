@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Design
