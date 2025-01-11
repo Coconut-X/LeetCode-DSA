@@ -5,12 +5,16 @@ public:
 
     int numTilings(int n) {
         const int MOD=1e9+7;
-        int a=1, b=2, c=5, ans;
-        if(n<=3) return n<=2? n: 5;
+        dp[1]=1;
+        dp[2]=2;
+        dp[3]=5;
+
+        if(n<=3) return dp[n];
 
         for(int i=4;i<=n;i++)
-            ans=((2*c)%MOD+a)%MOD, a=b, b=c, c=ans;
+            dp[i]=(2*dp[i-1]+dp[i-3])%MOD;
 
-        return ans;
+        return dp[n];
+        
     }
 };
