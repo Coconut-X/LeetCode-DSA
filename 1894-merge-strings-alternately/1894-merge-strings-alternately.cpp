@@ -10,7 +10,7 @@ public:
 
         while(i<word2.size())
             merged+=word2[i++];
-        
+            
         return merged;
     }
 };
