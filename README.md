@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0162-find-peak-element](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0198-house-robber) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0494-target-sum) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
