@@ -17,15 +17,13 @@ public:
         if(x > m or y > n) return INT_MAX;
         if(x==m and y==n) return grid[x][y];
         if (dp[{x,y}]) return dp[{x,y}];
-        int right= (dp[{x,y+1}]? dp[{x,y+1}] : move(grid, x, y+1, m, n));
-        int down = (dp[{x+1,y}]? dp[{x+1,y}] : move(grid, x+1, y, m, n));
+        int right= move(grid, x, y+1, m, n);
+        int down = move(grid, x+1, y, m, n);
         dp[{x,y}]= grid[x][y] + min(right, down);
         return dp[{x,y}];
     }
 
     int minPathSum(vector<vector<int>>& grid) {
-
         return move(grid, 0,0, grid.size()-1, grid[0].size()-1);
-        
     }
 };
