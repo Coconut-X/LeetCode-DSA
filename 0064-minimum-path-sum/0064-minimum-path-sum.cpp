@@ -12,7 +12,7 @@ public:
 
     unordered_map<pair<int,int>, int, pair_hash> dp;
 
-    int move(vector<vector<int>>& grid, int x, int y, int& m, int& n)
+    int move(vector<vector<int>>& grid, int x, int y, int m, int n)
     {
         if(x > m or y > n) return INT_MAX;
         if(x==m and y==n) return grid[x][y];
@@ -24,7 +24,6 @@ public:
     }
 
     int minPathSum(vector<vector<int>>& grid) {
-        int m=grid.size()-1, n=grid[0].size()-1;
-        return move(grid, 0, 0, m, n);
+        return move(grid, 0,0, grid.size()-1, grid[0].size()-1);
     }
 };
