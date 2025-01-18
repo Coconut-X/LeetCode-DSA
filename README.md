@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
