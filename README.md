@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0816-design-hashset](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0835-linked-list-components) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2868-continuous-subarrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
