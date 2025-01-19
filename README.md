@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0407-trapping-rain-water-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0605-can-place-flowers) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
