@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [2232-adding-spaces-to-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2470-removing-stars-from-a-string) |
