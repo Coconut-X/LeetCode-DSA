@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2145-grid-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2145-grid-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-equal-row-and-column-pairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
