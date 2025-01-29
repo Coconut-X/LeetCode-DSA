@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
