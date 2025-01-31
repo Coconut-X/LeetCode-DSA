@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0835-linked-list-components) |
+| [0854-making-a-large-island](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
