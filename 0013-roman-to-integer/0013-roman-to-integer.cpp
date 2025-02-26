@@ -11,43 +11,14 @@ public:
 
         for(int i=0;i<s.size();i++)
         {
-            if(i<s.size()-1)
+            if(i<s.size()-1 and mep[s[i]]<mep[s[i+1]])
             {
-                if (s[i] == 'I' && s[i + 1] == 'V') {
-                    count += 4, i++;
-                    continue;
-                }
-
-                if (s[i] == 'I' && s[i + 1] == 'X') {
-                    count += 9 , i++;
-                    continue;
-                }
-
-                if (s[i] == 'X' && s[i + 1] == 'L') {
-                    count += 40, i++;
-                    continue;
-                }
-
-                if (s[i] == 'X' && s[i + 1] == 'C') {
-                    count += 90, i++;
-                    continue;
-                }
-
-                if (s[i] == 'C' && s[i + 1] == 'D') {
-                    count += 400,i++;
-                    continue;
-                }
-
-                if (s[i] == 'C' && s[i + 1] == 'M') {
-                    count += 900, i++;
-                    continue;
-                }
-                            
+                count+= mep[s[i+1]] - mep[s[i]]; 
+                i++;
+                continue;            
             }
-
-            if(i<s.size())
                 count+=mep[s[i]];
-            
+           
         }
 
         return count;
