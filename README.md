@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1086-divisor-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [1025-minimum-cost-for-tickets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Shortest Path
 |  |
@@ -637,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
