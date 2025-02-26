@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1619-path-crossing) |
+| [1666-make-the-string-great](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0933-increasing-order-search-tree) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
