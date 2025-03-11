@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1619-path-crossing](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1619-path-crossing) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
