@@ -6,18 +6,14 @@ public:
         //(6-9)   => 3              4
         //(10-14) => 4              5
 
-        int ans=0;
         long x = 2;
         for(long cur=1;cur<=n;){
-
-            
-            ans=x;
+           // ans=x;
             cur+=x;
-
             x++;
         }
 
-        return ans - 1;
+        return x - 2;
 
         
     }
