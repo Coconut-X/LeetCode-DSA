@@ -6,6 +6,8 @@ public:
         //(6-9)   => 3              4
         //(10-14) => 4              5
 
+        return (-1 + sqrt(1+(long)8*n))/2;
+
         long x = 2;
         for(long cur=1;cur<=n;){
             cur+=x++;
