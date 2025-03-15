@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [1086-divisor-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
