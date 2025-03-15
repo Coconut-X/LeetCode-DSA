@@ -8,12 +8,10 @@ public:
 
         long x = 2;
         for(long cur=1;cur<=n;){
-           // ans=x;
-            cur+=x;
-            x++;
+            cur+=x++;
         }
 
-        return x - 2;
+        return x - 2; // -1 to turn to index, another -1 bcz loop runs one time extra
 
         
     }
