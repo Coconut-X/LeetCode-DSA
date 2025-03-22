@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1619-path-crossing) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1558-course-schedule-iv) |
 | [1916-find-center-of-star-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2121-find-if-path-exists-in-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Game Theory
 |  |
