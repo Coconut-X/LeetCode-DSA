@@ -1,20 +1,24 @@
+#define all(v) v.begin(),v.end()
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        if (nums.empty()) return 0;
 
-        vector<int> len(nums.size(), 1); 
-        int m=1;
+        vector<int> v;
+        v.push_back(nums[0]);
 
-        for (int i = nums.size() - 2; i >= 0; i--) {
-            for (int j = i + 1; j < nums.size(); j++) {
-                if (nums[i] < nums[j]) {
-                    len[i] = max(len[i], len[j] + 1);
-                }
+        for(int i=1;i<nums.size();i++)
+        {
+            if(nums[i]>v.back())
+            {
+                v.push_back(nums[i]);
             }
-            m = max(m, len[i]);  
+            else if(nums[i]<v.back())
+            {
+                auto it = lower_bound(all(v),nums[i]);
+                *it=nums[i];
+            }
         }
 
-        return m; 
+        return v.size();
     }
 };
