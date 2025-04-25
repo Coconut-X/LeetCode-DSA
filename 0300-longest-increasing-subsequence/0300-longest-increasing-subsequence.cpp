@@ -1,24 +1,22 @@
-#define all(v) v.begin(),v.end()
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
 
-        vector<int> v;
-        v.push_back(nums[0]);
-
+        vector<int> bucket;
+        bucket.push_back(nums[0]);
         for(int i=1;i<nums.size();i++)
         {
-            if(nums[i]>v.back())
+            if(nums[i]>bucket.back())
+                bucket.push_back(nums[i]);
+            if(nums[i]<bucket.back())
             {
-                v.push_back(nums[i]);
+                auto it = lower_bound(bucket.begin(),bucket.end(),nums[i]);
+                *it = nums[i];
             }
-            else if(nums[i]<v.back())
-            {
-                auto it = lower_bound(all(v),nums[i]);
-                *it=nums[i];
-            }
+
         }
 
-        return v.size();
+        return bucket.size();
+        
     }
 };
