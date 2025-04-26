@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
