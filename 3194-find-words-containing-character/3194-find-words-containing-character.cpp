@@ -4,7 +4,7 @@ public:
         vector<int> a;
         for(int i=0;i<words.size();i++)
         {
-            if(find(words[i].begin(),words[i].end(),x)!=words[i].end()){
+            if(words[i].contains(x)){
                 a.push_back(i);
             }
         }
