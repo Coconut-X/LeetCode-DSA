@@ -1,63 +1,56 @@
 class Solution {
 public:
 
-    vector<int> func(string &s)
-    {
-        vector<int> lps(s.size(),0);
-        int len = 0;
-        lps[0] = 0;
-        for(int i=1;i<s.size();)
-        {
-            if(s[i] == s[len])
-            {
+    vector<int> constructLps(string pat){
+        vector<int> lps(pat.size(),0);
+        int len =0;
+        int i=1;
+        while(i<pat.size()){
+            if(pat[i]==pat[len]){
                 len++;
-                lps[i] = len;
+                lps[i]=len;
                 i++;
             }
-            else
-            {
-                if(len==0)
-                {
-                    lps[i] = 0;
+
+            else{
+                if(len==0){
+                    lps[i]=0;
                     i++;
                 }
-                else if(len!=0) 
-                {
-                    len = lps[len -1];
+                else{
+                   
+                    len = lps[len-1];
                 }
             }
         }
+
         return lps;
     }
 
-    int kmp(string &s, string &p)
-    {
-        vector<int> lps = func(p);
+    int strStr(string haystack, string needle) {
 
-        int i = 0, j = 0;
+        vector<int> lps;
+        lps = constructLps(needle);
 
-        while(i<s.size())
-        {
-            if(s[i] == p[j])
-            {
+        int i=0, j=0;
+        int n = haystack.size(), m = needle.size();
+        while(i<n){
+            if(haystack[i] == needle[j]){
                 i++, j++;
-
-                if(j==p.size())
-                {
+                if(j==m){
                     return i-j;
+                    //j=lps[j-1];
                 }
             }
-            else 
-            {
-                if(j==0) i++;
-                else if(j>0) j = lps[j-1];
+            else{
+                if(j==0){
+                    i++;
+                }
+                else{
+                    j = lps[j-1];
+                }
             }
-        }   
+        }
         return -1;
-    }
-
-
-    int strStr(string haystack, string needle) {
-        return kmp(haystack,needle);
     }
 };
