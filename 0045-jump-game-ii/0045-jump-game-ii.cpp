@@ -2,22 +2,24 @@ class Solution {
 public:
     vector<int> m;
     Solution(){
-        m.resize(10001,INT_MAX);
+        m.resize(10001,10001);
     }
 
     int minJump(vector<int>&nums, int index){
-        if(index>=nums.size()){
-            return INT_MAX;
-        }
+       
         if(index >= nums.size()-1){
             return 0;
         }
 
-        if(m[index]!=INT_MAX){
+        if(nums[index]==0){
+            return 10001;
+        }
+
+        if(m[index]!=10001){
             return m[index];
         }
 
-        for(int i=1;i<=m[index];i++){
+        for(int i=1;i<=nums[index];i++){
             m[index] = min(m[index],1+minJump(nums,index+i));
         }
         return m[index];
