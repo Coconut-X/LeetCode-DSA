@@ -1,27 +1,13 @@
 class Solution {
 public:
 
-//vector<vector<string>> result;
-
-// void addResult(vector<vector<char>>&vec){
-//     string s = "";
-
-//     for(int i = 0; i<vec.size();i++){
-//         for(int j = 0; j<vec.size();j++){
-//             s+=vec[i][j];
-//         }
-//     }
-    
-//     result.push_back(s);
-// }
-
 vector<vector<string>> result; 
 
 void addResult(vector<vector<char>>& vec){
     vector<string> rowStrings; 
     for(int i = 0; i < vec.size(); i++){
         string s = "";
-        for(int j = 0; j < vec[i].size(); j++){ // Use vec[i].size() for column count in case of non-square matrix
+        for(int j = 0; j < vec[i].size(); j++){ 
             s += vec[i][j];
         }
         rowStrings.push_back(s); 
