@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0494-target-sum) |
