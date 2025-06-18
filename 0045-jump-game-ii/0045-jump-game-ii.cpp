@@ -1,30 +1,29 @@
 class Solution {
 public:
+    vector<int> m;
+    Solution(){
+        m.resize(10001,INT_MAX);
+    }
 
-
-    vector<int> mep;
-    int minJump(vector<int>&nums, int s, int i){
-        if(i>=s-1){
+    int minJump(vector<int>&nums, int index){
+        if(index>=nums.size()){
+            return INT_MAX;
+        }
+        if(index >= nums.size()-1){
             return 0;
         }
 
-        if(nums[i]==0) return 10001;
-
-        if (mep[i]!=10001) return mep[i];
-
-        for(int k = 1; k<=nums[i];k++)
-        {
-            mep[i] = min(mep[i],1 + minJump(nums, s, i + k));
+        if(m[index]!=INT_MAX){
+            return m[index];
         }
 
-        return mep[i];
+        for(int i=1;i<=m[index];i++){
+            m[index] = min(m[index],1+minJump(nums,index+i));
+        }
+        return m[index];
     }
 
-
     int jump(vector<int>& nums) {
-
-        mep.resize(nums.size(),10001);
-        return minJump(nums, nums.size(), 0);
-        
+        return minJump(nums,0);
     }
 };
