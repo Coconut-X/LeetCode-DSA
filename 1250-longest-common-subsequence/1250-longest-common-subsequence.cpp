@@ -16,8 +16,6 @@ public:
 
     int longestCommonSubsequence(string text1, string text2) {
         dp.resize(text1.size(),vector<int>(text2.size(),-1));
-        return brute(text1,text2,text1.size(),text2.size());
-
-        
+        return brute(text1,text2,text1.size(),text2.size());   
     }
 };
