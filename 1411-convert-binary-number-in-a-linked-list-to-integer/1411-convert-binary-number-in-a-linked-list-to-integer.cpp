@@ -13,21 +13,13 @@ public:
     int getDecimalValue(ListNode* head) {
 
         ListNode* temp = head;
-        string s = "";
+        long long num = 0;
         while(temp){
-            s+=to_string(temp->val);
+            num = num << 1;
+            num = num | temp->val;
             temp = temp -> next;
         }
 
-        long long num = 0;
-
-        for(int i = 0; i< s.size(); i++){
-            if(s[i] == '1')
-                num += pow(2,s.size()-i-1);
-        }
-
-        
-        
         return num;
     }
 };
