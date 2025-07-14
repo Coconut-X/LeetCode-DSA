@@ -18,15 +18,15 @@ public:
             s+=to_string(temp->val);
             temp = temp -> next;
         }
-        
-        reverse(s.begin(), s.end());
-      
+
         long long num = 0;
 
-        for(int i =0; i< s.size(); i++){
+        for(int i = 0; i< s.size(); i++){
             if(s[i] == '1')
-                num += pow(2,i);
+                num += pow(2,s.size()-i-1);
         }
+
+        
         
         return num;
     }
