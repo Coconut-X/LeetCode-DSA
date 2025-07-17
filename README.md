@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3194-find-words-containing-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3379-score-of-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3533-snake-in-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3533-snake-in-matrix) |
