@@ -6,7 +6,7 @@ public:
         int placed = fs;
         for(int i = 0;i < fs; i++){
             for(int j = 0; j < bs; j++){
-                if(baskets[j]>=fruits[i] and baskets[j]!=0){
+                if(baskets[j]>=fruits[i]){
                     placed--;
                     baskets[j] = 0;
                     break;
