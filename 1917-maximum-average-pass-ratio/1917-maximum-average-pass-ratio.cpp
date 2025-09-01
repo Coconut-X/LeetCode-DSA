@@ -21,10 +21,10 @@ public:
         while(extraStudents>0){
             pair<float,float> maxx = heap.top();
             heap.pop();
-            int np = ++classes[maxx.second][0];
-            int nt = ++classes[maxx.second][1];
-            ratio[maxx.second] = (float)np/nt;
-            maxx.first = gain(np,nt);
+            int newP = ++classes[maxx.second][0];
+            int newT = ++classes[maxx.second][1];
+            ratio[maxx.second] = (float)newP/newT;
+            maxx.first = gain(newP,newT);
             heap.push(maxx);
             extraStudents--;
         }
