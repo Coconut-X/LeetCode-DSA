@@ -1,32 +1,35 @@
 class Solution {
 public:
+    float gain(int p, int t){
+        return (float)(p+1)/(t+1) - (float)p/t;
+    }
+
+    float currentRatio(int p, int t){
+        return (float)p/t;
+    }
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        auto gain = [](double pass, double total) {
-            return (pass + 1) / (total + 1) - pass / total;
-        };
+        priority_queue<pair<float,float>>heap;
 
-        priority_queue<pair<double, pair<int, int>>> maxHeap;
+        vector<float> ratio(classes.size(),0);
 
-        double sum = 0.0;
-
-        for (const auto& cls : classes) {
-            int pass = cls[0], total = cls[1];
-            sum += (double)pass / total;  
-            maxHeap.push({gain(pass, total), {pass, total}});
+        for(int i = 0; i < classes.size(); i++){
+            int p = classes[i][0], t = classes[i][1];
+            ratio[i] = currentRatio(p,t);
+            heap.push({gain(p,t), i});
         }
 
-        for (int i = 0; i < extraStudents; ++i) {
-            auto [currentGain, data] = maxHeap.top(); maxHeap.pop();
-            int pass = data.first, total = data.second;
-
-            sum -= (double)pass / total;
-            pass += 1;
-            total += 1;
-            sum += (double)pass / total;
-
-            maxHeap.push({gain(pass, total), {pass, total}});
+        while(extraStudents>0){
+            pair<float,float> maxx = heap.top();
+            heap.pop();
+            int np = ++classes[maxx.second][0];
+            int nt = ++classes[maxx.second][1];
+            ratio[maxx.second] = (float)np/nt;
+            maxx.first = gain(np,nt);
+            heap.push(maxx);
+            extraStudents--;
         }
 
-        return sum / classes.size();
+        return (float)accumulate(ratio.begin(),ratio.end(),0.0)/classes.size();
+        
     }
 };
