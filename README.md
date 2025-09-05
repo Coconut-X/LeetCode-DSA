@@ -822,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1086-divisor-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Shortest Path
 |  |
 | ------- |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
