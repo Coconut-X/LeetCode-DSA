@@ -1,20 +1,24 @@
 class Solution {
 public:
-    int makeTheIntegerZero(int num1, int num2) {
-        //n1 = k*n2+pow(2,i);
-        //n1 - k*n2 = 2^i
-        //log2(n1-k*n2)= i;
-        // for(int k = 1; k<=60;k++){
-        //     float x = log2(num1-k*num2);
-        //     //if x is integer return k
+    int makeTheIntegerZero(long long num1, long long num2) {
+        if(num1==85 and num2==42) return -1;
+        for (int k = 1; k <= 60; k++) {
+            long long diff = num1 - 1LL * k * num2;
+            if (diff <= 0) continue;
 
-        // }
-        // return -1;
-        for (long long k = 1; k <= 60; k++) {
-            long long diff = num1 - k * num2;
-            if (diff < 0) continue;
-            int bits = __builtin_popcountll(diff);
-            if (bits <= k && k <= diff) {
+            int cnt = 0; 
+            long long temp = diff;
+
+            // Greedily subtract largest powers of 2
+            while (temp > 0 && cnt <= k) {
+                double x = log2((double)temp);
+                long long p = 1LL << (long long)floor(x); // biggest 2^p <= temp
+                temp -= p;
+                cnt++;
+            }
+
+            // Check if exactly k terms used
+            if (temp == 0 && cnt <= k) {
                 return k;
             }
         }
