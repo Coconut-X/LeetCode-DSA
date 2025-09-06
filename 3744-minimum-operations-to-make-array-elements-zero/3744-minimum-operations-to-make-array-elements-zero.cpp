@@ -1,9 +1,6 @@
 class Solution {
     public:
     long long calculate_f(long long x) {
-        if (x <= 0) {
-            return 0;
-        }
 
         long long total_ops = 0;
         int ops_per_number = 1;
