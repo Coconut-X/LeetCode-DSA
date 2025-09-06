@@ -1,5 +1,5 @@
 class Solution {
-private:
+    public:
     long long calculate_f(long long x) {
         if (x <= 0) {
             return 0;
@@ -25,8 +25,6 @@ private:
         total_ops += num_elements_in_partial_segment * ops_per_number;
         return total_ops;
     }
-
-public:
 
     long long minOperations(vector<vector<int>>& queries) {
         long long count = 0;
