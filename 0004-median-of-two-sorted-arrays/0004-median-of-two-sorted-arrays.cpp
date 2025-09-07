@@ -11,12 +11,12 @@ public:
         }
         
         int half = (s1+s2+1)/2;
+        long int left = 0, right = s1; 
 
-
-        long int left = 0, right = s1; //r = 4
-
-        int i = left + (right - left)/2; //start from middle. i = 2, use this formula to avoid overflow 
+        int i = left + (right - left)/2; //start from middle.
         int j = half - i; // 4-2-1=2, initialy starts from same index as i
+        //you can think of i and j as mid1 and mid2
+        //the element at index == mid is considered in right partition
         int Aleft, Aright;
         int Bleft, Bright;
         
@@ -42,7 +42,7 @@ public:
             }
         }
 
-        if((s1+s2)&1){
+        if((s1+s2)&1){ //odd length
             return max(Aleft,Bleft);
         }
 
