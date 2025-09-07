@@ -1,37 +1,32 @@
 class Solution {
-    public:
-    long long calculate_f(long long x) {
-
-        long long total_ops = 0;
-        int ops_per_number = 1;
-        long long current_segment_start = 1;
-        long long next_segment_start = 4;
-
-        //all full segments up to x
-        while (next_segment_start <= x) {
-
-            long long num_elements = next_segment_start - current_segment_start;
-            total_ops += num_elements * ops_per_number;
-            current_segment_start = next_segment_start;
-            next_segment_start *= 4;
-            ops_per_number++;
-        }
-
-        //partial segment from current_segment_start up to x, for last numbers 
-        long long num_elements_in_partial_segment = x - current_segment_start + 1;
-        total_ops += num_elements_in_partial_segment * ops_per_number;
-        return total_ops;
+public:
+    
+    int log4(double number){
+        int result = (int)((log(number) / log(4.0)) + 1);
+        return result;
     }
 
     long long minOperations(vector<vector<int>>& queries) {
         long long count = 0;
 
-        for (auto q : queries) {
-            long long l = q[0], r = q[1];
-            long long cost = calculate_f(r) - calculate_f(l - 1);
-            count += (cost + 1) / 2;
-        }
+        for(auto q:queries){
+            int l = q[0], r = q[1];
+            long long cost = 0;
+            for(int i = l;i<=r;){
+                long long minop = log4(i); //current min op
+                int boundary = pow(4,minop) -1;
 
+                long long last_num = min(boundary, r);
+                long long elements_in_this_segment = last_num - i + 1;
+
+                cost+=minop*elements_in_this_segment;
+                
+                i=last_num+1; //move to next segment
+            }
+
+            count+=(cost+1)/2;
+        }
+        
         return count;
     }
 };
