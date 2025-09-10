@@ -32,22 +32,21 @@ public:
         if (badFriendships.empty()) return 0;
 
         for (int lan = 1; lan <= n; lan++) {
-            vector<int> taught(languages.size(), 0);
+            vector<bool> taught(languages.size(), false);
             int count = 0;
 
             for (int i = 0; i < badFriendships.size(); i++) {
                 int f1 = badFriendships[i][0], f2 = badFriendships[i][1];
 
                 if (!knows(languages, f1, lan) && !taught[f1]) {
-                    taught[f1] = 1;
+                    taught[f1] = true;
                     count++;
                 }
                 if (!knows(languages, f2, lan) && !taught[f2]) {
-                    taught[f2] = 1;
+                    taught[f2] = true;
                     count++;
                 }
             }
-
             m = min(m, count);
         }
 
