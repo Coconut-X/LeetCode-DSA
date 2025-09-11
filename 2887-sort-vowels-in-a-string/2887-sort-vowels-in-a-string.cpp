@@ -23,7 +23,6 @@ public:
                 }
                 if(j<=9 and buckets[j]!=0){
                     s[i] = vowels[j];
-                    cout<<i<<" "<<j<<endl;
                     buckets[j]--;
                 }
             }
