@@ -1,18 +1,13 @@
 class Solution {
 public:
     vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
-        // Lambda function to check if a character is a vowel.
-        // It converts the char to lowercase first, so it works for both cases.
         auto isvowel = [](const char& c) {
             char lower_c = tolower(c);
             return (lower_c == 'a' || lower_c == 'e' || lower_c == 'i' || lower_c == 'o' || lower_c == 'u');
         };
 
-        // Map for exact matches (case-sensitive).
         unordered_map<string, bool> exact_match;
-        // Map for case-insensitive matches.
         unordered_map<string, string> case_insensitive_map;
-        // Map for vowel-error matches.
         unordered_map<string, string> vowel_error_map;
 
         for (const string& word : wordlist) {
