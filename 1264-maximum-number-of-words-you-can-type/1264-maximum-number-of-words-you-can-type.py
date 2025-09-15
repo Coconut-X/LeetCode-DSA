@@ -1,8 +1,6 @@
 class Solution(object):
     def canBeTypedWords(self, text, brokenLetters):
-        broken = dict()
-        for b in brokenLetters:
-            broken[b] = True
+        broken = set(brokenLetters)
         
         words = text.split()
         count = 0
