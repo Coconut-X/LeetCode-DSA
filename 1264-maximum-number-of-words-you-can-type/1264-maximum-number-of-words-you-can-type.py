@@ -9,7 +9,7 @@ class Solution(object):
         for w in words:
             typed = True
             for c in w:
-                if c in brokenLetters:
+                if c in broken:
                     typed = False
                     break
             count = count + typed
