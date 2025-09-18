@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3678-design-task-manager](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3678-design-task-manager) |
 ## Hash Function
 |  |
 | ------- |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3678-design-task-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Queue
 |  |
