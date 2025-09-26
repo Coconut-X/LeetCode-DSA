@@ -1,26 +1,6 @@
 class Solution {
 public:
 
-    int binarySearch(vector<int>&nums, int low, int high, int sum){
-        
-        // while(low<high){
-        //     int mid = low + (high-low)/2;
-        //     if(nums[mid] < sum and nums[mid+1]>=sum){
-        //         return mid;
-        //     }
-        //     if(nums[mid] < sum){
-        //         low = mid+1;
-        //     }
-        //     else{
-        //         high = mid - 1;
-        //     }
-        // }
-
-
-        return -1;
-    }
-
-
     int triangleNumber(vector<int>& nums) {
 
         sort(nums.begin(), nums.end());
