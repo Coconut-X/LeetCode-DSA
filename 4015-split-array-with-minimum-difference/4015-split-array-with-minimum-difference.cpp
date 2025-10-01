@@ -39,7 +39,7 @@ public:
         }
 
         if (stopat0) {
-            return abs(nums[0] - (prefix[n-1] - nums[0]));
+            return abs((nums[0] << 1) - prefix[n-1]);
         }
 
         if (stopatsame) {
