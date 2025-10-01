@@ -1,6 +1,6 @@
 class Solution {
 public:
     int numWaterBottles(int a, int b) {
-        return a + (a-1)/(b-1);
+        return (a*b-1)/(b-1);
     }
 };
