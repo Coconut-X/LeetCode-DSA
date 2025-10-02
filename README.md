@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3336-water-bottles-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
