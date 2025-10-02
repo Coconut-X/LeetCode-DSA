@@ -1,15 +1,14 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        if(n<=3) return n;
-        int s1 = 1;
-        int s2 = 2;
-        int total = 0;
-        for(int i = 3; i <=n; i++){
-           total = s1+s2;
-           s1=s2;
-           s2=total;
+    unordered_map<int,int>mep;
+    int climb(int c, int&n){
+        if(c>=n){
+            return c==n;
         }
-        return total;
+        if(mep[c]) return mep[c];
+        return mep[c] = climb(c+1,n)+climb(c+2,n);
+    }
+    int climbStairs(int n) {
+        return climb(1,n)+climb(2,n);
     }
 };
