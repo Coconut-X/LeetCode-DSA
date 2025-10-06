@@ -18,10 +18,11 @@ public:
         }
         if(mep.count({index,current}))return mep[{index,current}];
         //include self again
+        int a = 1 + brute(coins,amount,index, current+coins[index]);
+        //skip
         int b = brute(coins,amount,index+1, current);
-        int a = brute(coins,amount,index, current+coins[index]);
        
-        return mep[{index,current}] = min(1+a,b);
+        return mep[{index,current}] = min(a,b);
     }
 
     int coinChange(vector<int>& coins, int amount) {
