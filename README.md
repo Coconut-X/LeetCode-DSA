@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1619-path-crossing](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1619-path-crossing) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1502-construct-k-palindrome-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2023-design-movie-rental-system) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
