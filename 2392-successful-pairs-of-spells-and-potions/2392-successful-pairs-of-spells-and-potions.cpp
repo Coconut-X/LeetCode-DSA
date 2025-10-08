@@ -20,7 +20,7 @@ public:
         vector<int>ans;
         for(int i = 0; i < spells.size(); i++){
             int index = bs(potions,success,spells[i]); 
-            ans.push_back(potions.size() - bs(potions,success,spells[i]));
+            ans.push_back(potions.size() - index);
         }
         return ans;
 
