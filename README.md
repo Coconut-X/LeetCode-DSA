@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3483-alternating-groups-ii) |
 | [3533-snake-in-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
