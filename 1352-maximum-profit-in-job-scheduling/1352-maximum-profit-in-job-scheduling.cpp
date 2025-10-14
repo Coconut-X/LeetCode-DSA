@@ -21,18 +21,13 @@ public:
         if (index >= (int)jobs.size()) return 0;
         if (dp.count(index)) return dp[index];
 
-        int cs = get<0>(jobs[index]);
-        int ce = get<1>(jobs[index]);
+        int currentStart = get<0>(jobs[index]), currentEnd = get<1>(jobs[index]);
         int profit = get<2>(jobs[index]);
-
-        int next = binarySearch(jobs, index, ce);
+        int next = binarySearch(jobs, index, currentEnd);
 
         int take = profit;
-        if (next < (int)jobs.size())
-            take += brute(jobs, next);
-
+        if (next < (int)jobs.size())    take += brute(jobs, next);
         int skip = brute(jobs, index + 1);
-
         return dp[index] = max(take, skip);
     }
 
@@ -45,10 +40,6 @@ public:
 
         sort(jobs.begin(), jobs.end()); 
 
-        int ans = 0;
-        for (int i = 0; i < n; i++)
-            ans = max(ans, brute(jobs, i));
-
-        return ans;
+        return brute(jobs,0);
     }
 };
