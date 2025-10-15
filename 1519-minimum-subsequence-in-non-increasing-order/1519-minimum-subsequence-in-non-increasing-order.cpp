@@ -8,7 +8,7 @@ public:
         for(int i = nums.size() - 1; i >=0; i--){
             s+=nums[i];
             ans.push_back(nums[i]);
-            if(2*s> total) break;
+            if(2*s> total) break; //s > total - s becomes 2s > total
         }
         return ans;
     }
