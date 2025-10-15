@@ -1,24 +1,25 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-        vector<int>cash(3,0);
-        
+        int fives = 0, tens = 0, twenties = 0;
+
         for(int i = 0; i < bills.size(); i++){
             int b = bills[i];
-            if(b==5){
-                cash[0]++;
+            if(b == 5){
+                fives++;    //no need to return any change, simply take it 5 dollar bill from customer
             }
-            if(b==10){
-                if(cash[0]==0) return false; 
-                cash[0]--;
-                cash[1]++;
+            if(b == 10){
+                if(fives == 0) return false; 
+                fives--; //return one 5 dollar bill
+                tens++; //take 10 dollar bill from customer
             }
-            if(b==20){
-                if(cash[0]==0 and cash[1]==0) return false;
-                if(cash[1]>=1 and cash[0]>=1) cash[0]--, cash[1]--;
-                else if(cash[0]>=3) cash[0]-=3;
+            if(b == 20){
+                if(fives == 0 and tens == 0) return false; //we need atleast one ten and one five for any type of change
+                //prioritize giving bigger bills first 
+                if(tens >= 1 and fives >= 1) fives--, tens--; //return one bill of 10 and one bill of 5 
+                else if(fives >= 3) fives -= 3; //return 3 bills of 5
                 else return false;
-                cash[2]++;
+                twenties++; //take 20 dollar bill from customer
             }
         }
         return true;
