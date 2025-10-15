@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
+| [0979-di-string-match](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1006-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1250-longest-common-subsequence) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
+| [0979-di-string-match](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0874-backspace-string-compare) |
+| [0979-di-string-match](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1502-construct-k-palindrome-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
