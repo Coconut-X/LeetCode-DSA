@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2023-design-movie-rental-system](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2048-build-array-from-permutation) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1917-maximum-average-pass-ratio](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2300-construct-string-with-repeat-limit) |
