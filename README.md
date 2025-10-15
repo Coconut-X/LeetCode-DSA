@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1063-best-sightseeing-pair](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1502-construct-k-palindrome-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
