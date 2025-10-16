@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1917-maximum-average-pass-ratio](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
