@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2650-split-with-minimum-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2650-split-with-minimum-sum) |
 | [2681-put-marbles-in-bags](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2649-count-total-number-of-colored-cells) |
+| [2650-split-with-minimum-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2650-split-with-minimum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2650-split-with-minimum-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2650-split-with-minimum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
