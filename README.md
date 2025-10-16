@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2481-strictly-palindromic-number) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2509-minimize-xor) |
