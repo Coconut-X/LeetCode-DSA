@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2509-minimize-xor) |
