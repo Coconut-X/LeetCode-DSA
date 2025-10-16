@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2650-split-with-minimum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2650-split-with-minimum-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3001-apply-operations-to-maximize-score) |
