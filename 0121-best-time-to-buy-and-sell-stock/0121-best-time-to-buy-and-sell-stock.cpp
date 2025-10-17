@@ -9,7 +9,7 @@ public:
         for(int i = 1; i < s; i++){
 
             minPriceSeen = min(minPriceSeen, prices[i]);
-            if(prices[i] > minPriceSeen) profit = max(profit,prices[i] - minPriceSeen);
+            profit = max(profit,prices[i] - minPriceSeen);
         }
         return profit;
     }
