@@ -1,8 +1,7 @@
 class Solution {
 public:
     int minPartitions(string n) {
-        int m = 0;
-        for(auto& c:n) m = max(m,c-'0');
-        return m;
+        for(auto& c:n) n[0] = max(n[0],c);
+        return n[0]-'0';
     }
 };
