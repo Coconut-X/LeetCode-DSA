@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0768-partition-labels) |
