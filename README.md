@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3827-implement-router) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Simulation
@@ -909,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Queue
 |  |
 | ------- |
