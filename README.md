@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3643-zero-array-transformation-ii) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
