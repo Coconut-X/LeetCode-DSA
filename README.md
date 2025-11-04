@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0742-to-lower-case) |
