@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2481-strictly-palindromic-number) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
