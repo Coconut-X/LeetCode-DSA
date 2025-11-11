@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0409-longest-palindrome) |
+| [0474-ones-and-zeroes](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0518-coin-change-ii) |
