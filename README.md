@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2465-shifting-letters-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3427-special-array-ii) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2625-increment-submatrices-by-one](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
