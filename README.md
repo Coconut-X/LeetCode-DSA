@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0120-triangle) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0861-flipping-an-image) |
@@ -1070,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
