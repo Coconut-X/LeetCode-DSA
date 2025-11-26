@@ -11,7 +11,7 @@ public:
 
     int numberOfPaths(vector<vector<int>>& grid, int k) {
         int m = grid.size(), n = grid[0].size();
-        vector<vector<vector<int>>> dp(grid.size(), vector<vector<int>>(grid[0].size(), vector<int>(k, -1)));
+        vector<vector<vector<int>>> dp(m, vector<vector<int>>(n, vector<int>(k, -1)));
         return move(grid, dp, k, 0, 0, m, n, 0);
     }
 
