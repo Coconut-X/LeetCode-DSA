@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
