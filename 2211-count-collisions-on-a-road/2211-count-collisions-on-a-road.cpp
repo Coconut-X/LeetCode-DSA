@@ -7,9 +7,10 @@ public:
         while (r >= 0 && directions[r] == 'R') r--;
         if (l > r) return 0;
         int collisions = 0;
-        
+
         for (int i = l; i <= r; ++i)
-            if (directions[i] != 'S') collisions++;
+            collisions+=directions[i]!='S';
+
         return collisions;
     }
 };
