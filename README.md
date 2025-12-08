@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1314,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
