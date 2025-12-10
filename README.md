@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0973-k-closest-points-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0979-di-string-match](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0830-largest-triangle-area](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1086-divisor-game) |
@@ -1004,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0794-swim-in-rising-water) |
+| [0973-k-closest-points-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1879-maximum-score-from-removing-stones) |
@@ -1265,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -1314,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3623-count-number-of-trapezoids-i) |
