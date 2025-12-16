@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3531-count-covered-buildings) |
 | [3533-snake-in-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2562-count-ways-to-build-good-strings) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
