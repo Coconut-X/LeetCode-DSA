@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1006-vowel-spellchecker) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
