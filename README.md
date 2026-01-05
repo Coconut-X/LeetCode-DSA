@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2048-build-array-from-permutation) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1975-maximum-matrix-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
