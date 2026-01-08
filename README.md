@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1512-number-of-good-pairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1512-number-of-good-pairs) |
@@ -992,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
