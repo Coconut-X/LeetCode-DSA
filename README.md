@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-map-of-highest-peak](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2358-number-of-ways-to-split-array) |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
