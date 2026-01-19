@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0794-swim-in-rising-water) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0724-find-pivot-index) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
@@ -1232,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1036-rotting-oranges) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
