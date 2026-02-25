@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0120-triangle) |
