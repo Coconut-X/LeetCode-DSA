@@ -1,19 +1,25 @@
 class NumMatrix {
 public:
-    vector<vector<int>>prefix;
+    vector<vector<int>> prefix;
     NumMatrix(vector<vector<int>>& matrix) {
-        prefix.resize(matrix.size()+1, vector<int>(matrix[0].size()+1,0));
-
-        for(int i = 1;i<=matrix.size();i++){
-            for(int j = 1;j<=matrix[0].size();j++){
-                prefix[i][j] = matrix[i-1][j-1] + prefix[i-1][j]+prefix[i][j-1] - prefix[i-1][j-1];
+        int n = matrix.size(), m = matrix[0].size();
+        prefix.resize(matrix.size(), vector<int>(matrix[0].size(),0));
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < m; ++j) {
+                prefix[i][j] = matrix[i][j];
+                if (i > 0) prefix[i][j] += prefix[i - 1][j];
+                if (j > 0) prefix[i][j] += prefix[i][j - 1];
+                if (i > 0 && j > 0) prefix[i][j] -= prefix[i - 1][j - 1];
             }
         }
     }
-    
-    int sumRegion(int row1, int col1, int row2, int col2) {
-        
-        return prefix[row2+1][col2+1] - prefix[row2+1][col1] - prefix[row1][col2+1] + prefix[row1][col1];
+    int sumRegion(int r1, int c1, int r2, int c2) {
+        int total = prefix[r2][c2];
+        int top = (r1 > 0) ? prefix[r1 - 1][c2] : 0;
+        int left = (c1 > 0) ? prefix[r2][c1 - 1] : 0;
+        int overlap = (r1 > 0 && c1 > 0) ? prefix[r1 - 1][c1 - 1] : 0;
+        int sum = total - top - left + overlap;
+        return sum;
     }
 };
 
