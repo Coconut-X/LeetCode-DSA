@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -1264,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
