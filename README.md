@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0520-detect-capital) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0830-largest-triangle-area](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0840-magic-squares-in-grid) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0861-flipping-an-image) |
