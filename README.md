@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0520-detect-capital) |
