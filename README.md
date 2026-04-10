@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3678-design-task-manager) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3827-implement-router](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
