@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1895-largest-magic-square) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Coconut-X/LeetCode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/Coconut-X/LeetCode-DSA/tree/master/2164-two-best-non-overlapping-events) |
