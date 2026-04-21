@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0816-design-hashset](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0969-number-of-recent-calls) |
@@ -1368,10 +1371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Coconut-X/LeetCode-DSA/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Coconut-X/LeetCode-DSA/tree/master/3790-fruits-into-baskets-ii) |
